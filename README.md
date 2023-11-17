@@ -17,7 +17,7 @@ Programa de site agregador de links utilizando tecnologias web. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto About Me" src=".github/capa_projeto.jpg" width="100%">
+  <img alt="projeto About Me" src=".github/capa_Projeto.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
